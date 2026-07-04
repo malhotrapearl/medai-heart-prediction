@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.36.0
 pandas
 numpy
 scikit-learn
@@ -7,4 +7,4 @@ matplotlib
 shap
 fpdf
 openai
-xgboost
+xgboost==1.7.6
