@@ -2,8 +2,9 @@ streamlit
 pandas
 numpy
 scikit-learn
+joblib
 matplotlib
 shap
-joblib
 fpdf
 openai
+xgboost
